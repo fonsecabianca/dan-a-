@@ -1,0 +1,26 @@
+nav{ 
+    font-size: 30px;
+ }
+ nav li {
+    display: inline;
+    margin: 0 0 0 30%;
+ }
+
+ header{
+    background-color: rgb(253, 253, 253) ;
+ }
+    h1{
+color:rgba(68, 8, 83, 0.822);
+text-align: center;
+
+}
+
+.imagem {
+    width: 30%;
+    margin-left: 35%;
+
+}
+
+body{
+    background-color: rgb(243, 205, 255);
+}
